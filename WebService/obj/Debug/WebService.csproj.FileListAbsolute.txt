@@ -1,0 +1,7 @@
+E:\CWeb\WebService\WebService\bin\WebService.dll
+E:\CWeb\WebService\WebService\bin\WebService.pdb
+E:\CWeb\WebService\WebService\obj\Debug\ResolveAssemblyReference.cache
+E:\CWeb\WebService\WebService\obj\Debug\WebService.dll
+E:\CWeb\WebService\WebService\obj\Debug\WebService.pdb
+E:\CWeb\WebService\WebService\obj\Debug\WebService.Service1.resources
+E:\CWeb\WebService\WebService\obj\Debug\WebService.csproj.GenerateResource.Cache

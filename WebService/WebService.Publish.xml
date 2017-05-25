@@ -1,0 +1,20 @@
+<publishData>
+  <publishTarget publishUrl="F:\1_Web_Manual3DMaker\">
+    <file relUrl="bin/WebService.pdb" publishTime="05/23/2017 09:45:36" />
+    <file relUrl="bin/WebService.dll" publishTime="05/23/2017 09:45:36" />
+    <file relUrl="Service1.asmx" publishTime="12/12/2016 11:53:26" />
+    <file relUrl="Web.config" publishTime="12/12/2016 13:39:08" />
+  </publishTarget>
+  <publishTarget publishUrl="F:\7_Web_Manual3DMaker\">
+    <file relUrl="bin/WebService.pdb" publishTime="02/23/2017 09:37:56" />
+    <file relUrl="bin/WebService.dll" publishTime="02/23/2017 09:37:57" />
+    <file relUrl="Service1.asmx" publishTime="12/12/2016 11:53:26" />
+    <file relUrl="Web.config" publishTime="12/12/2016 13:39:08" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\huaying\Desktop\WebService版本\">
+    <file relUrl="Web.config" publishTime="12/12/2016 13:39:08" />
+    <file relUrl="bin/WebService.dll" publishTime="12/14/2016 16:20:16" />
+    <file relUrl="Service1.asmx" publishTime="12/12/2016 11:53:26" />
+    <file relUrl="bin/WebService.pdb" publishTime="12/14/2016 16:20:16" />
+  </publishTarget>
+</publishData>
